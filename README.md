@@ -1,1 +1,2 @@
-# Zero-shot-and-few-shot-learning
+# Gold-Standard dataset in the legal domain for Arabic. 
+# It contains number of legal terms in and out of context.
